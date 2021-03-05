@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">correction colle</string>
+    <string name="title">ZINENIC</string>
+    <string name="email">Email Address</string>
+    <string name="pwd">Password</string>
+    <string name="forgot">Forgot Password</string>
+    <string name="fb">facebook</string>
+    <string name="tw">twitter</string>
+    <string name="log">Log In</string>
+</resources>
